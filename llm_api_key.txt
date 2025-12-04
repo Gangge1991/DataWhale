@@ -1,0 +1,32 @@
+ollama本地部署：
+LLM_BASE_URL="http://localhost:11434/v1"
+LLM_MODEL_ID="llama3.1"
+
+OPENAI
+API密钥
+OPENAI_API_KEY=sk-IM2GHVrNoP2qlBEo71feXNChPyv2iS0BpvBZlqd49QzrOVcl
+服务地址
+OPENAI_BASE_URL=https://ai.nengyongai.cn/v1
+
+TAVILY_API_KEY=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
+SERPAPI_API_KEY=734ad30289320e7eb5d8f40a741cb567c40ee9168f1cce8ebf6f9543f3a025a0
+
+DEEPSEEK_API_KEY=sk-a1f3f06ff9df421d87746e751184d714
+DEEPSEEK_BASE_URL=https://api.deepseek.com/v1
+
+MODELSCOPE_API_KEY=ms-0d6d1451-8c1c-4dfe-ad07-29de88a034d6
+MODELSCOPE_BASE_URL=https://api-inference.modelscope.cn/v1/
+
+MINIMAX_BASE_URL=https://api.minimaxi.com/anthropic
+MINIMAX_AUTH_TOKEN=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJHcm91cE5hbWUiOiLku6PliJoiLCJVc2VyTmFtZSI6IuS7o-WImiIsIkFjY291bnQiOiIiLCJTdWJqZWN0SUQiOiIxOTg2MDY2MjM3NjQ5NTkyNTQxIiwiUGhvbmUiOiIxMzI2Mjc5Njc4NSIsIkdyb3VwSUQiOiIxOTg2MDY2MjM3NjQxMjAzOTMzIiwiUGFnZU5hbWUiOiIiLCJNYWlsIjoiIiwiQ3JlYXRlVGltZSI6IjIwMjUtMTEtMDYgMDk6Mzc6MTUiLCJUb2tlblR5cGUiOjEsImlzcyI6Im1pbmltYXgifQ.MV36vY1ruCCyArrjjDmXXO6ApAUt9wUfGWM60-3zNBMuqnDujVfORXMT5XFxHCMyYDqjOjz49-CekcdzU_crpq-OLKK6_2EmicliD12kM_FjaP2uh8o820IQ0qU3F6-QSCmvMmf6QfYVkWNyaI-PZKdAAZc8tREs584Cx-qKBDlFSOVfHu_mIQonMSUy5c_0j68qaEAjSjuulWnwm7ueYlPQFvKSNEFgfKJQXDS2ZKqr2bfiO0w705dDD8Rf3K6HWX5ghJW1pYfSNj6O6M34xNbJRVjAMZeRaTp78IZ6FOKJC-cB7ZzG-J4FmFzHNppIp4ShyQOnIuExdeDSo6I5xg
+
+
+DASHSCOPE_API_KEY=sk-2a0546190b014493a8be814e5ec687ef
+DASHSCOPE_BASE_URL=https://dashscope.aliyuncs.com/compatible-mode/v1
+
+
+SILICON_API_KEY=sk-asdvldkqagqbslufrphmjvywvozsrhyonpxurcnljpzmagxt
+SILICON_BASE_URL=https://api.siliconflow.cn/v1/
+
+KIMI_API_KEY = sk-GLm40rEGlIu0pFIPbxX68L17bejTOSJsSVCkSB6X5STF8hS9
+KIMI_API_URL = https://api.moonshot.cn/v1
